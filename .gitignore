@@ -1,0 +1,9 @@
+# Dependency folders
+node_modules/
+
+# Environment variables (Sensory information)
+.env
+
+# System files
+.DS_Store
+thumbs.db
